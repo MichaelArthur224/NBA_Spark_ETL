@@ -2,5 +2,4 @@ nba-api==1.11.4
 pandas==3.0.3
 plotly==6.8.0
 pyspark==4.1.2
-pyspark-stubs==3.0.0.post3
 streamlit==1.58.0
