@@ -9,6 +9,7 @@ Features
  - Points Per Game (PPG)
 - Rebounds Per Game (RPG)
 - Assists Per Game (APG)
+
 📈 Analyze rolling 5-game scoring averages
 🏀 Explore complete game logs
 ⚔️ Compare two NBA players side-by-side
